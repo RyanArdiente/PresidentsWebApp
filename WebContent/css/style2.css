@@ -1,0 +1,103 @@
+body {
+  margin:0;
+  padding:0;
+  background-color: #000;
+}body {
+  margin:0;
+  padding:0;
+}
+#header1 {
+  color: #f30;
+  margin: 0 auto;
+  margin-bottom:20px;
+}
+#inspirational {
+  text-align:center;
+  font-weight: bolder;
+  font-size: 70px;
+  font-family: Cursive, serif;
+}
+#mainImage {
+  width:100%;
+  height:400px;
+}
+#capitol {
+  width:100%;
+  height:180px;
+}
+#outer {
+  margin: 5px 30%;
+  text-align:center;
+  width:700px;
+  margin: 0 auto;
+}
+#topcenter {
+  border: 2px dashed #f30;
+  border-radius: 0 0 9px 9px;
+  padding: 20px;
+  padding-top: 6px;
+  max-width:400px;
+  min-width: 150px;
+  box-shadow:6px 6px 5px #999999;
+  background-color: #fff;
+  margin:217px auto 30px auto;
+}
+#sbutton {
+  /* background-color: red; */
+  color: red;
+  font-size:40px;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-family:Fantasy;
+}
+
+#bottomcenter {
+  border: 2px solid #f00;
+  border-radius: 70%;
+  max-width:400px;
+  min-width:150px;
+  margin:10px auto;
+  background-color:#f90;
+  box-shadow:6px 6px 5px #999999;
+  z-index: 100;
+}
+#center2 {
+  border-radius: 6px;
+  border-radius: 70%;
+  max-width:  350px;
+  min-width: 140px;
+  text-align: center;
+  margin: 0 auto;
+  box-shadow: inset 1px 4px 130px 8px #0b3fc2;
+  padding: 20px;
+  z-index: 1;
+}
+#ppic {
+  width: 70%;
+  height: 210px;
+  z-index: 30;
+  border-radius: 60px 60px 0 0;
+}
+#name {
+  font-variant: small-caps;
+}
+.side {
+  height: 60px;
+  width: 70%;
+  max-width: 900px;
+  min-width: 150px;
+  margin: -120px auto;
+}
+#left {
+  /*background: url("left.png");*/
+  display:inline-block;
+  float: left;
+  width:70px;
+  height:100px;
+}
+#right {
+  display:inline-block;
+  float:right;
+  width:70px;
+  height:100px;
+}
